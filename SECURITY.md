@@ -19,7 +19,7 @@ Nếu bạn phát hiện bất kỳ lỗi bảo mật nào, **đừng tạo issu
 Hãy báo cáo trực tiếp qua một trong các kênh sau:
 
 - 📧 Email: `Update`
-- 🛡️ Telegram: [Update](Update)
+- 🛡️ Telegram: `Update`[](Update)
 - 📬 GitHub Private Message *(nếu cần thiết)*
 
 Chúng tôi cam kết sẽ phản hồi trong vòng **48 giờ** và giữ thông tin của bạn **hoàn toàn bảo mật**.
