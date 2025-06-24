@@ -3,7 +3,7 @@
 <p align="center">
   🛠️ Một kho công cụ mạnh mẽ, đa nền tảng, đa mục đích<br>
   ✨ Kết hợp giữa sự linh hoạt của <strong>Node.js</strong> và sức mạnh của <strong>Python</strong><br>
-  Made with ❤️ by <strong>a a</strong>
+  Made with ❤️ by <strong>Davexyz</strong>
 </p>
 
 ---
