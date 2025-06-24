@@ -29,11 +29,11 @@
 ```bash
 git clone https://github.com/Davexyzss/ATK-Requests.git
 cd ATK-Requests
-
+```
 
 ---
 
-## 🛡️ Bản quyền & Chủ sở hữu
+<p align="center"><strong>🛡️ Bản quyền & Chủ sở hữu 🛡️</strong></p>
 
 > © 2025 by [Davexyz] | (None) — All rights reserved.
 
