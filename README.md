@@ -27,5 +27,18 @@
 ### Clone dự án:
 
 ```bash
-git clone 
+git clone https://github.com/Davexyzss/ATK-Requests.git
 cd ATK-Requests
+
+
+---
+
+## 🛡️ Bản quyền & Chủ sở hữu
+
+> © 2025 by [Davexyz] | (None) — All rights reserved.
+
+- Mọi nội dung, mã nguồn, giao diện, và ý tưởng thuộc quyền sở hữu của chủ dự án.
+- Việc sao chép, sử dụng lại một phần hoặc toàn bộ mà không được cho phép là **vi phạm bản quyền**.
+- Nếu bạn muốn sử dụng hoặc fork lại dự án cho mục đích riêng, vui lòng **liên hệ trước qua email hoặc GitHub.**
+
+---
